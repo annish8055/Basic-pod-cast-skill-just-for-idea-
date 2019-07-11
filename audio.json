@@ -1,0 +1,25 @@
+{
+	"audio": [
+
+		{
+			"title": "Midyear Outlook: Reining in Risk",
+			"image": "http://static.libsyn.com/p/assets/e/a/a/4/eaa4ad1223610ab4/TM_squared_updated.jpg",
+			"url": "https://traffic.libsyn.com/franklintempletontalkingmarkets/Midyear_Outlook_Reining_in_Risk.mp3"
+		},
+		{
+			"title": "Moving Ahead: An Update on US Retirement Legislation ",
+			"image": "http://static.libsyn.com/p/assets/2/f/7/8/2f78976402005413/TM_squared_updated.jpg",
+			"url": "https://traffic.libsyn.com/franklintempletontalkingmarkets/FY19_0489_Podcast_Retirement_Leg_v2.mp3"
+		},
+		{
+			"title": "Unlocking Innovation: Strategies from Silicon Valley CEOs",
+			"image": "http://static.libsyn.com/p/assets/5/0/1/9/5019509e4cbeac38/TM_squared_updated.jpg",
+			"url": "https://traffic.libsyn.com/franklintempletontalkingmarkets/FY19_0480_Podcast_GIF_Unlocking_Innovation_v4.mp3"
+		}
+	],
+	"curently_active": {
+		"title": "Midyear Outlook: Reining in Risk",
+		"image": "http://static.libsyn.com/p/assets/e/a/a/4/eaa4ad1223610ab4/TM_squared_updated.jpg",
+		"url": "https://traffic.libsyn.com/franklintempletontalkingmarkets/Midyear_Outlook_Reining_in_Risk.mp3"
+	}
+}
